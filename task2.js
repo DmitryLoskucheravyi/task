@@ -1,11 +1,5 @@
+const x = 10
 console.log(x)
 
-
-
-const x; = 10
-
-
-lеt y = hello
-
-
-console.log(z)
+let y = 'hello'
+console.log(y)
